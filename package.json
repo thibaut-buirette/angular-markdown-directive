@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/btford/angular-markdown-directive.git"
+    "url": "git://github.com/thibaut-buirette/angular-markdown-directive.git"
   },
   "keywords": [
     "angular",
